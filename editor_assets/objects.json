@@ -1,0 +1,1142 @@
+{
+	"folders": {
+		"blocks": ["obj_solid", "obj_slope", "obj_platform", "obj_ladder", "obj_monstersolid", "obj_monsterslope",
+			"obj_iceblock", "obj_iceblockslope", "obj_ballslope", "obj_mach3solid", "obj_unclimbablewall", "obj_destructibleplatform", "obj_fallingplatform", "obj_solid_goblinraid",
+			"obj_minipillar", "obj_reverseminipillar", "obj_lap2block", "obj_reverselap2block", "obj_lap3block", "obj_reverselap3block", "obj_lap4block", "obj_reverselap4block"
+		],
+		"breakable": [
+			"obj_destroyable", "obj_desertdestroyable", "obj_destroyable_escape", "obj_destroyable2", "obj_destroyable2_big", "obj_destroyable2_escape", "obj_destroyable2_big_escape", "obj_destroyable3", "obj_destroyable3_escape", "obj_secretblock",  "obj_secretbigblock", "obj_secretdestroyable", 
+			"obj_metalblock", "obj_metalblock_escape", "obj_secretmetalblock", "obj_marbleblock", "obj_hotmetalblock", "obj_onewaybigblock", "obj_smallspaceblock", "obj_bigspaceblock",  "obj_iceblock_breakable", "obj_spike",
+			"obj_tutorialblock", "obj_deadjohn1", "obj_deadjohn2", "obj_deadjohn3", "obj_rockblock", "obj_destructiblerockblock", "obj_tntblock",
+			"obj_ghostblock", "obj_smallforestblock", "obj_bigforestblock", "obj_cutoff", "obj_cutoffsmall", "obj_breakabledoor", "obj_generaldestroyable", "obj_glassblock",
+			"obj_johndestructible", "obj_enemyblock", "obj_secretexitblock", "obj_tutorialtargetblock", "obj_iceblock_temp"
+		],
+
+		"baddies": [
+			"obj_pizzaboy", "obj_cheeseslime", "obj_forknight", "obj_swedishmonkey", "obj_minijohn",
+			"obj_pepgoblin", "obj_pizzagoblin", "obj_ancho", "obj_fencer",
+			"obj_indiancheese", "obj_kentukykenny", "obj_clerk", "obj_banditochicken",
+			"obj_ghoul",
+			"obj_farmerbaddie", "obj_farmerbaddie2", "obj_farmerbaddie3", "obj_peasanto", "obj_electricpotato",
+			"obj_rancher", "obj_badrat",
+			"obj_coolpineapple", "obj_spitcheese", "obj_canongoblin", "obj_treasureguy", "obj_autocanon",
+			"obj_noisegoblin", "obj_pickle", "obj_pizzard",
+			"obj_miniufo", "obj_miniufo_grounded",
+			"obj_golfdemon", "obj_golfburger", "obj_bigcheese",			
+			"obj_smokingpizzaslice", "obj_hamkuff", "obj_thug_red",
+			"obj_robot", "obj_sausageman",
+			"obj_ninja",
+			"obj_snowman", "obj_pizzice", "obj_fakesanta",
+			"obj_ghostknight", "obj_pepbat", "obj_clownmato",
+			"obj_robotmonster", "obj_blobmonster", "obj_puppetmonster", "obj_hillbillymonster", "obj_pineapplemonster",
+			"obj_patroller", "obj_camerapatrol", "obj_pineappleprojectilespawn",
+			"obj_soldier", "obj_bazookabaddie", "obj_tank", "obj_kentukybomber", "obj_peppinoclone", "obj_gustavograbbable", "obj_grandpa",
+			"obj_baddiespawner", "obj_baddiecameraspawner", "obj_agressivebaddiespawner",
+			"obj_peppermanartdude", "obj_johnecheese", "obj_noisey", "obj_pizzahead_haywire", "obj_pizzaface",
+			"obj_hardmode_ghost"
+
+		],
+		
+		"baddies (old)": [
+			"obj_dummyTEST", "obj_weenieOLD", "obj_weenie", "obj_cheeserobot", "obj_trashOLD", "obj_sausageeyes", "obj_piraneapple", "obj_clownmatoOLD", "obj_cowstampede", "obj_farmerpeasanto", "obj_snickexe", "obj_weeniesquireOLD", "obj_mrstickcardboard",
+			"obj_thug_blue", "obj_thug_green", "obj_car", "obj_tankOLD", "obj_sausagemanOLD", "obj_kentukylenny", "obj_weeniesquire", "obj_johnghost", "obj_fakepeppinospawner", "obj_fakepeppino", "obj_fakepeplimb", "obj_fakepeplimb2", "obj_motodude", "obj_bigcheeseOLD", "obj_pizzafaceOLD"
+		],
+
+		"collect": ["obj_collect", "obj_escapecollect", "obj_collectarena", "obj_collectgolf", "obj_pizzaslice", "obj_breakabletv", "obj_bigcollect", "obj_escapecollectbig", "obj_bigcollectarena", "obj_bigcollectgolf", "obj_giantcollect", "obj_pizzaboxunopen", 
+			"obj_pizzakinshroom", "obj_pizzakincheese", "obj_pizzakintomato", "obj_pizzakinsausage", "obj_pizzakinpineapple", "obj_noisebomb",
+			"obj_treasure", "obj_pizzasona_spawn", "obj_ratfairy", "obj_beer", "obj_bigbeer", "obj_flush",
+			"obj_deliverypizzabox", "obj_gnomehouse1", "obj_gnomehouse2", "obj_gnomehouse3", "obj_gnomehouse4", "obj_gnomehouse5",
+			 "obj_key", "obj_pizzacoin"
+		],
+		
+		"progress": ["obj_exitgate", "obj_pizzaboxunopen", "obj_pizzakinshroom", "obj_pizzakincheese", "obj_pizzakintomato", "obj_pizzakinsausage", "obj_pizzakinpineapple", "obj_noisebomb",
+			"obj_secretportal", "obj_secretportalstart", "obj_secretroomtrigger", "obj_checkpoint",
+			"obj_gerome", "obj_geromedoor", "obj_treasure",
+			"obj_PTG",
+			"obj_hungrypillar", "obj_noise_normalT1", "obj_noisesatellite", "obj_phonebooth", "obj_exitgustavo", "obj_gustavo_kidsparty",
+			"obj_lapportal", "obj_lapportalentrance",
+			"obj_lap1", "obj_lap1end", "obj_goldendoor"
+		],
+		
+		"gizmo": [
+			"obj_ratblock", "obj_baddiespawner", "obj_baddiecameraspawner", "obj_spawner_goblinraid", "obj_destroyable_respawner", "obj_agressivebaddiespawner",
+			"obj_dashpad", "obj_pizzagoblinbomb",
+			"obj_pizzacutter1", "obj_pizzacutter2", "obj_boilingsauce",
+			"obj_donkey", "obj_totemcloud", "obj_totem",
+			"obj_gravesurfing", "obj_ghostfollow",
+			"obj_timedgate", "obj_timedgateclock", "obj_ventilator",
+			"obj_ladderhorizontal", "obj_hookup", "obj_morthook",
+			"obj_mushroom",
+			"obj_water", "obj_current", "obj_frontcanongoblin_trigger", "obj_frontcanoncrosshair",
+			"obj_rocket", "obj_antigrav","obj_teleporter","obj_spaceblockswitch",
+			"obj_pinballlauncher",
+			"obj_ramp", "obj_balloongrabbable",
+			"obj_grabbiehand", "obj_superspring", "obj_railh2", "obj_railh",
+			"obj_trash", "obj_stringycheese", "obj_sidesuperspring", "obj_slipnslide",
+			"obj_pizzapepper", "obj_instanttemp",
+			"obj_movingplatform", "obj_moving_vstop", "obj_moving_hstop", "obj_trapghost", "obj_knighttrap", "obj_pinballtrap", "obj_tvtrap", "obj_anchortrap",
+			"obj_monstergate", "obj_stickycheese", "obj_pineapplemonsterzone",
+			"obj_nuketerminal", "obj_gustavo_war", "obj_mine",
+			"obj_haystack", "obj_fakesuperspring", "obj_balloon", "obj_tutorialtargetblock", "obj_tutorialtarget",
+			"obj_fallingplatform", "obj_bounceplank", "obj_arenadoor", "obj_arenagate", "obj_arenaspawn", "obj_boulder",
+			"obj_characterselect", "obj_peppinoselect", "obj_noiseselect", "obj_door2", "obj_meatgrinder", "obj_meatblock",  "obj_spaceblock", "obj_reversespaceblock", "obj_minipillar", "obj_reverseminipillar",
+			"obj_tomatoblock", "obj_tutorialtrap", "obj_baddiebutton", "obj_baddiegate", "obj_hiddenobjecttrigger", "obj_hiddenobject"
+		],
+		"warp": [
+			"obj_hallway", "obj_verticalhallway", "obj_boxofpizza", "obj_door", "obj_geromedoor", "obj_keydoor",
+			"obj_doorA", "obj_doorB", "obj_doorC", "obj_doorD", "obj_doorE", "obj_doorF", "obj_doorG", "obj_warp_number",
+			"obj_secretportal", "obj_secretportalstart", "obj_lapportal", "obj_lapportalentrance", "obj_doorblocked", "obj_teleporter_receptor"
+		],
+
+		"power": [
+			"obj_dashpad", "obj_swordstone", "obj_ballslope", "obj_pepgoblin", "obj_baddiespawner", "obj_pizzagoblinbomb", "obj_boilingsauce", "obj_haystack", "obj_kentukylenny", "obj_kentukylenny_projectile",
+			"obj_kentukykenny", "obj_kentukykenny_projectile", "obj_ghosthazard", "obj_ghostdashpad", "obj_well", "obj_weeniemount", "obj_pistolpickup",
+			"obj_barrel", "obj_peppinoswitch", "obj_gustavoswitch", "obj_pizzaball", "obj_pizzaballOLD", "obj_antigrav", "obj_rocket", 
+			"obj_grindrail", "obj_grindrailslope", "obj_balloongrabbable", "obj_boxcrusher", "obj_noisejetpack", "obj_cheeseballspawner", "obj_cheeseball", "obj_invtrash", "obj_cheesemaker", "obj_cheeseblob", "obj_cheeserobot", "obj_trash",
+			"obj_crosspriest", "obj_jumpscare", "obj_shotgun",
+			"obj_hook", "obj_hookend", "obj_skateboardOLD", "obj_skateboard", "obj_clownballoon", "obj_tankOLD", "obj_noisebombspawner", "obj_skateboardnoise", "obj_iceblockOLD", "obj_iceblock_temp", "obj_pizzashield_collectible", "obj_washingmachinemount", "obj_waterOLD", "obj_motodude", "obj_characterswitch",
+			"obj_priest", "obj_priesthazard", "obj_spike_priest", "obj_freemilk", "obj_tombstone", "obj_bigtombstone", "obj_mortgrain", "obj_metaldetector"
+		],
+		"power block": [
+			"obj_ratblock", "obj_ratblock1x1", "obj_rattumble_big", "obj_rattumble",
+			"obj_metalblock", "obj_secretmetalblock", "obj_hotmetalblock", "obj_rollblock", "obj_bombblock", "obj_haystack",
+			"obj_tntblock", "obj_ghostwall", "obj_ghostblock", "obj_mortblock",
+			"obj_barrelblock", "obj_gustavodestroyable", "obj_destroyablegolf", "obj_ballgoal", "obj_pizzaballblock", "obj_asteroid",
+			"obj_cheeseballblock", "obj_iceblock_breakable",
+			"obj_shotgunblock", "obj_haystackrope"
+		],
+			
+		"complex": ["obj_tubeenter", "obj_tubeleft", "obj_tuberight", "obj_tubedown", "obj_tubeup", "obj_tubeexitmach",
+			"obj_tubeexitdownexit", "obj_tubeexitSjump", "obj_pizzaball", "obj_pizzaballblock", "obj_magnet", "obj_golfhoop", "obj_ballgoal", "obj_horseyblock", "obj_horsey", "obj_horseyleft", "obj_horseyright", "obj_horseydown", "obj_horseyup", "obj_racestart", "obj_raceend"
+		],
+		"other": ["obj_sprite", "obj_roomname", "obj_cowboyhat", "obj_halloweenjumpscare", "obj_pumpkin", "obj_pumpkindoor", "obj_softlockcrash", "obj_kidspartybg", "obj_siren", "obj_tinyslimedude", "obj_ratprop", "obj_beedeco", "obj_ufoexterior", "obj_snotty", "obj_pigcitizen", "obj_grandma",
+			"obj_burd",
+			"obj_tiledestroy", "obj_secrettile", "obj_pigdark", "obj_mainmenu_jumpscare", "obj_jumpscare",
+			"obj_noisefollower", "obj_stickfollower", "obj_gustavofollower", "obj_vigilantefollower", "obj_mortfollowerexit", "obj_fakepepfollower", "obj_peppermanfollower", "obj_snottyexit", "obj_geromeexit", "obj_pepanimatronicfollow", "obj_alienfollow", 
+			"obj_followcharacter", "obj_transfotip", "obj_endgamefade", "obj_pizzaheadsword", "obj_bossdark", "obj_cowstampede", "obj_pepper_marblestatue", "obj_chickenpickup", "obj_dresser", "obj_viginoiseyspawner", "obj_text", "obj_cheftask", "obj_smallletters", "obj_playereffectprop", "obj_destroyable_respawner", "obj_lightsource_expand", 
+			"obj_policecar", "obj_textbutton", "obj_heatafterimage", "obj_superattackeffect", "obj_optiondoor", "obj_pizzaface_thunderdark", "obj_levelselect", "obj_filedoor", "obj_panicdebris", "obj_stylebar", "obj_roomname", "obj_manual", "obj_timesup", "obj_motorcycleblock", "obj_arenaspawn", "obj_arenadoor", "obj_collectarena", "obj_bigcollectarena", "obj_arenagate", "obj_pizzacoin", "obj_pizzacoinindicator", "obj_weaponmachine", "obj_minecart_rail", "obj_gustavo", "obj_cutscene_handler", "obj_cameraflip", "obj_motocycle", "obj_motocycle_old",
+			"obj_lightsource", "obj_balloon", "obj_beartrap", "obj_toppinwarrior", "obj_toppinwarriorbutton", "obj_junk", "obj_spiderweb", "obj_fakesuperspring", "obj_bounceplank", "obj_wetfloor", "obj_crashplaneblock", "obj_tvtrigger"
+		],
+		"particle": ["obj_sandparticle", "obj_snowparticle", "obj_beachsandparticle", "obj_characterswitch", "obj_planetparticle", "obj_poodebris"],
+		"hub":[
+			"obj_startgate", "obj_startgate_treasure", "obj_tutorialbook", "obj_dialognpc", "obj_palettedresser",
+			"obj_soundtest_prev", "obj_soundtest_pause", "obj_soundtest_next", "obj_king", "obj_soundtest",
+			"obj_soundtest_gus", "obj_gusbrickfightball", "obj_gusbrickchase", "obj_gusbrickhurt", "obj_gusbrickhub", "obj_gusbrickpoker",
+			"obj_cheesedragontower", "obj_meatballtower", "obj_pizzafaceshower", "obj_pizzaface_showerprop", "obj_world5john", "obj_pizzaheadgetout",
+			"obj_peppermanvengeful", "obj_vigilanteunsure", "obj_noisevengeful", "obj_noisewashingmachinetower", "obj_noisettecafe", "obj_snicktower", "obj_finalhallwayface",
+			"obj_grannypizzasign", "obj_doornexthub", "obj_pigtotal", "obj_stick_target", "obj_stick_forsale", "obj_achievementviewer", "obj_mrmooney", "obj_computer", "obj_bossdoor"
+		],
+		"projectiles": [
+			"obj_banditochicken_dynamite", "obj_whoop", "obj_vigilantedynamite", "obj_kentukybomb", "obj_noisebossbomb", "obj_fakepepprojectile", "obj_uziprojectile", "obj_farmerbaddie2_projectile", "obj_pizzice_projectile", "obj_smokingprojectile", "obj_farmerbaddie3_projectile",
+			"obj_arcprojectile", "obj_kentukylenny_projectile", "obj_firemouth_projectile", "obj_kentukykenny_projectile", "obj_medievalprojectile",
+			"obj_noisegoblin_arrow", 
+			"obj_banditochicken_projectile", "obj_ufobullet", "obj_slugbullet", "obj_enemybullet", "obj_rancher_bullet", "obj_pizzaheadbullet", "obj_bazooka", "obj_spitcheesespike", "obj_pizzard_bolt",
+			"obj_vigilantecow", "obj_vigilantecrate", "obj_peppermanGIANTbowlingball", "obj_peppermanbowlingball", "obj_gustavo_warmissile", "obj_skateboardnoise", 
+			"obj_cheeseblob", "obj_bowlingball", "obj_cheesedragonflames", "obj_banditobomb"
+		],
+		"unused": ["obj_geromeblock",
+			"obj_gnomecustomerblockfinal", "obj_gnomecustomerblock", "obj_fightballblock",
+			"obj_noisetrap_rock", "obj_noiserock", "obj_noisematch", "obj_cheeseboat", "obj_phonebooth", "obj_bigtombstone",
+			"obj_lavapot", "obj_solidpillar", "obj_supriseenemy", "obj_supriseenemyarea", "obj_turret", "obj_priesthazard", "obj_cheesedragonshadow"
+			
+		],
+		"boss": [
+			"obj_bosskeyspawn", "obj_hppickup", "obj_bosscontroller", "obj_bosscontrollerOLD", "obj_bosscontrollerPizzaFaceOLD",
+			"obj_pepperman", "obj_pepper_marblespot", "obj_poweringupeffect", "obj_pepperman_pepportrait", 
+			"obj_vigilanteboss", "obj_vigilantespot", "obj_platformvigi", "obj_cowspawner", "obj_targetguy",
+			"obj_noiseboss", "obj_micnoise", "obj_noiseyspawner2",
+			"obj_fakepepboss", "obj_fakepepsolid", "obj_fakepephallwaystart","obj_fakepepgianthead",
+			"obj_pizzafaceboss", "obj_pizzafaceboss_p2", "obj_pizzafaceboss_p3",
+			"obj_noisebossOLD", "obj_vigilantebossOLD", "obj_peppermanOLD", "obj_mrstickboss", "obj_mrstickcardboard", "obj_pizzafacebossOLD",
+			"obj_iceblockminiboss", "obj_santanoise", "obj_presentbox", 
+			"obj_peppermanOLDOLD", "obj_cheesedragon",
+			"obj_bee"
+		],
+		"unusable": [
+			"obj_golflauncher", "obj_noisesatellite", "obj_stick", "obj_snickexe",
+			"obj_spaceshuttle", "obj_spaceshuttlestop", "obj_taxi", "obj_stopsign", 
+			"obj_lightsource",  "obj_noiseyspawner", "obj_bosscontroller",
+			"obj_conveyorspawner", "obj_conveyordespawner",
+			"obj_toxicspray", "obj_toxicbutton", "obj_toxicfan", "obj_toxiccloud",
+			"obj_arenalimit", "obj_arenaspawnpoint", "obj_arena_pizzaportal", 
+			"obj_fakepepclone", "obj_minecart", "obj_santanoise",  "par_boss",  "obj_iceblockminiboss", "obj_factorysensor", "obj_graffiticount", "obj_pizzaballOLDOLD"
+		],
+		"controllers": [
+			"obj_bosscontroller", "obj_bosscontrollerOLD", "obj_bosscontrollerPizzaFaceOLD", "obj_pizzafaceOLDcontroller", "obj_darkcontroller", "obj_playersprcontroller"
+		],
+		"test": [
+			"obj_editor", "obj_testobject", "obj_testobject2", "obj_screenwarp", "obj_achievementviewer", "obj_movingoutlet", "obj_ammocollect", "obj_icicle_spawner", "obj_factoryswitch", "obj_meatgrinder", "obj_loophallway",
+			"obj_hiddenobjecttrigger", "obj_shotgunback", "obj_johnecheese_spawner", "obj_noisettecafe", "obj_baddietombcontroller", "obj_factorygate",
+			"obj_computer", "obj_secrettrigger", "obj_cheftask", "obj_cow", "obj_freezeddragon", "obj_touchall", "obj_hiddenobject", "obj_hubelevator",
+			"obj_pizzaarrowtrap", "obj_railswitchslow", "obj_baddiegibsstick", "obj_fakepeplimb", "obj_fakepeplimb2", "obj_stick_target", "obj_chateaulight",
+			"obj_snicktower", "obj_noisebosscrate", "obj_pepperman_pepportrait", "obj_surprisebox_boss", "obj_graffiti", "obj_timecollect", "obj_weenieOLD",
+			"obj_soundtrap", "obj_stairs", "obj_farmerpeasanto", "obj_peasanto", "obj_tea", "obj_climbablewall", "obj_rubble", "obj_climbingupstairs",
+			"obj_electricwall", "obj_robotmonsterhand", "obj_wirewall", "obj_button", "obj_pizzahead_haywire",
+			"obj_baddiebutton_perma", "obj_asteroid", "obj_wordhitbox", "obj_timeattack", "obj_title", "obj_hard", "obj_easy", "obj_retry", "obj_exit",
+			"obj_generaldestroyable", "obj_junk", "obj_mortblock", "obj_randomobject", "obj_tankOLD", "obj_sausagemanOLD",
+			"obj_weeniesquireOLD", "obj_supriseenemy", "obj_escapeenemy", "obj_grabbiehandOLD", "obj_onebyone", "obj_exitdoorsignground",
+			"obj_costumerdoor", "obj_costumer", "obj_costumerpizza", "obj_bowlingball", "obj_goldendoor", "obj_pitfall", "obj_risingboilingsauce",
+			"obj_noisedynamite", "obj_boulder", "obj_water", "obj_woodbarrel", "obj_barrelspawner", "obj_gustavopizza", "obj_doornexthub",
+			"obj_goalsign", "obj_siren", "obj_exitdoorsign", "obj_ranksign", "obj_donesign", "obj_Hranksign", "obj_creditimages", "obj_leveltitles", "obj_100",
+			"obj_80", "obj_40", "obj_20", "obj_movingspike", "obj_meatblock", "obj_lock", "obj_hubwater", "obj_toppinwarrior", "obj_toppinwarriorbutton",
+			"obj_solidpillar", "obj_farmer2", "obj_farmer3", "obj_lampost", "obj_pillarentrance", "obj_doortransition", "obj_doortransitionend",
+			"obj_doortransition2", "obj_mrstickblock", "obj_snickchallengedoor", "obj_santasleight2", "obj_pizzacustomer", "obj_gnome_checklist", "obj_icicle",
+			"obj_ham", "obj_bosscontrollerOLD", "obj_cracker", "obj_pigcitizen", "obj_factorysensor", "obj_pizzaheadswordstone", "obj_bigtombstone",
+			"obj_warp_number", "obj_teleporter_receptor", "obj_arenacontroller", "obj_dummyTEST", "obj_gustavopizza", "obj_pizzacollectphy", "obj_pizzaheadbomb", "obj_cleaningwater",
+			"obj_giantkey", "obj_bombdelete", "obj_enemyrain", "obj_ipgrabber", "obj_iptext", "obj_camera_scrollstop", "obj_doisedead"
+		]
+	},
+	"order": ["blocks", "breakable", "baddies", "baddies (old)", "collect", "power", "power block", "particle", "progress", "gizmo", "warp", "complex", "other", "projectiles", "unused", "hub", "boss", "unusable", "controllers", "test", "fixed",],
+	"respawnOnLap2": ["obj_escapecollect", "obj_escapecollectbig"],
+	"overrideDestructionMemory": ["obj_lapportalentrance"],
+	"snapToGround": [
+		"obj_baddie", "obj_gerome", "obj_exitgustavo", "obj_swordstone", "obj_weeniemount", "obj_barrel", "obj_freemilk", "obj_priest", "obj_crosspriest", "obj_peppinoswitch", "obj_gustavoswitch", "obj_startgate", "obj_hungrypillar",
+		"obj_monster", "obj_tutorialbook", "obj_beer", "obj_bigbeer", "obj_tvtrap", "obj_autocanon", "obj_pinballtrap", "obj_taxi", "obj_stopsign", "obj_spaceshuttlestop", "obj_pepperman_pepportrait", "obj_tinyslimedude", "obj_ratprop", 
+		"obj_skateboard", "obj_toppinwarriorbutton", "obj_snotty", "obj_exitfollowercollect", "obj_gusbrickchase", "obj_gustbrickfightball", "obj_gusbrickhurt", "obj_gusbrickpocker", 
+		"obj_gusbrickhub", "obj_soundtest_gus", "obj_generaldestroyable", "obj_vigilanteunsure", "obj_peppermanvengeful", "obj_noisevengeful", "obj_pigcitizen", "obj_invtrash", "obj_targetguy", "obj_grandma", 
+		"obj_pepanimatronicfollow", "obj_alienfollow", "obj_fakepepclone", "obj_car", "obj_stick_target", "obj_stick_forsale", "obj_mrmooney", "obj_snicktower", "obj_wetfloor", "obj_clownmatoOLD", "obj_cowstampede", 
+		"obj_farmerpesanto", "obj_farmer2", "obj_farmer3", "obj_weeniesquireOLD", "obj_mrstickcardboard", "obj_fakepeppino", "obj_motodude",
+		"obj_breakabletv", "obj_pizzaballOLD", "obj_trash", "obj_skateboardOLD", "obj_skateboardnoise", "obj_noisebombspawner", "obj_washingmachinemount",
+		"obj_tombstone", "obj_bigtombstone", "obj_destroyable_respawner", "obj_gravesurfing", "obj_policecar", "obj_motocycle", "obj_motocycleOLD",
+		"obj_noisetrap_rock", "obj_noiserock", "obj_lavapot", "obj_solidpillar", "obj_turret", "obj_dialognpc",
+		"obj_noisebossOLD", "obj_vigilantebossOLD", "obj_peppermanOLD", "obj_mrstickboss", "obj_santanoise", "obj_presentbox", "obj_peppermanOLDOLD",
+		"obj_spaceshuttle", "obj_minecart", "obj_testobject", "obj_snicktower", "obj_junk", "obj_costumerdoor", "obj_costumer", "obj_costumerpizza",
+		"obj_bowlingball", "obj_woodbarrel", "obj_pizzaheadbomb", "obj_knighttrap", "obj_giantkey"
+	],
+
+	"objectVariables": {
+		"all": [
+			["visible", ["true", "false"], {
+				"noCustom": true
+			}],
+			["useLayerDepth", ["true", "false"], {
+				"display": "layer depth",
+				"noCustom": true
+			}],
+			"sprite_index"
+			
+			
+		],
+		"|obj_onewaybigblock|obj_smallspaceblock|obj_bigspaceblock|": [
+			["respawn", ["true", "false"], {
+				"display": "Respawnable",
+				"noCustom": false
+			}]
+		],
+		"|obj_metalblock|obj_metalblock_escape|obj_secretmetalblock|": [
+			["superjumpable", ["true", "false"], {
+					"display": "Superjumpable"
+			}]
+		],
+		"|obj_destroyable2|obj_destroyable2_big|obj_destroyable2_escape|obj_destroyable2_big_escape|": [
+			["spawncollect", ["true", "false"], {
+				"display": "Spawn Goop",
+				"noCustom": false
+			}]
+		],
+		"|obj_secretblock|obj_secretbigblock|obj_secretmetalblock|obj_destroyable|obj_destroyable2|": [
+			["particlespr", ["spr_debris", "spr_towerblockdebris", "spr_pizzadebris", "spr_halloweendebris", "spr_bigpizzadebris", "spr_halloweenbigdebris", "spr_bigdebris", "spr_metalblockdebris", "spr_eyedebris"], {
+				"display": "Particles"
+			}]
+		],
+		"|obj_destroyable3|obj_metalblock|obj_destroyable2_big|obj_destroyable_escape|": [
+			["particlespr", ["spr_debris", "spr_towerblockdebris", "spr_pizzadebris", "spr_halloweendebris", "spr_bigpizzadebris", "spr_halloweenbigdebris", "spr_bigdebris", "spr_metalblockdebris", "spr_eyedebris"], {
+				"display": "Particles"
+			}]
+		],
+		"|obj_destroyable2_escape|obj_destroyable2_big_escape|obj_destroyable3_escape|": [
+			["particlespr", ["spr_debris", "spr_towerblockdebris", "spr_pizzadebris", "spr_halloweendebris", "spr_bigpizzadebris", "spr_halloweenbigdebris", "spr_bigdebris", "spr_metalblockdebris", "spr_eyedebris"], {
+				"display": "Particles"
+			}]
+		],
+		"|obj_metalblock_escape|": [
+			["particlespr", ["spr_debris", "spr_towerblockdebris", "spr_pizzadebris", "spr_halloweendebris", "spr_bigpizzadebris", "spr_halloweenbigdebris", "spr_bigdebris", "spr_metalblockdebris", "spr_eyedebris"], {
+				"display": "Particles"
+			}]
+		],
+		"|obj_dashpad|obj_swordstone|obj_baddiespawner|obj_agressivebaddiespawner|obj_baddiecameraspawner|": [
+			["lap", ["Off", "1", "2", "3", "4"], {
+				"display": "Despawn on Lap"
+			}]
+		],
+		"|obj_ghosthazard|obj_well|obj_weeniemount|obj_barrel|obj_rocket|obj_boxcrusher|obj_pizzapepper|": [
+			["lap", ["Off", "1", "2", "3", "4"], {
+				"display": "Despawn on Lap"
+			}]
+		],
+		"|obj_cheeseballspawner|obj_invtrash|obj_cheesemaker|obj_skateboard|obj_hook|": [
+			["lap", ["Off", "1", "2", "3", "4"], {
+				"display": "Despawn on Lap"
+			}]
+		],
+		"|obj_washingmachinemount|obj_noisebombspawner|obj_trash|obj_antigrav|obj_skateboardOLD|": [
+			["lap", ["Off", "1", "2", "3", "4"], {
+				"display": "Despawn on Lap"
+			}]
+		],
+		"|obj_noisebombspawner|": [
+			["transformation", ["meteor", "bomb", "old bomb"], {
+				"display": "Transformation"
+			}]
+		],
+		"|obj_boxcrusher|": [
+			["old", ["true", "false"], {
+				"display": "Old"
+			}]
+		],
+		"|obj_pizzapepper|": [
+			["panicstart", ["true", "false"], {
+				"display": "Spawn during Panic"
+			}],
+			["panicdestroy", ["true", "false"], {
+				"display": "Despawn during Panic"
+			}]
+		],
+		"|obj_swordstone|": [
+			["loseknight", ["true", "false"], {
+				"display": "Lose Knight"
+			}],
+			["knightslide", ["true", "false"], {
+				"display": "Slide"
+			}],
+			["knightdjump", ["true", "false"], {
+				"display": "Double Jump"
+			}],
+			["knightsjump", ["true", "false"], {
+				"display": "Slide Jump"
+			}],
+			["knightdthrust", ["true", "false"], {
+				"display": "Down Thrust"
+			}],
+			["knightjab", ["true", "false"], {
+				"display": "Jab"
+			}]
+		],
+		"|obj_boilingsauce|": [
+			["old", ["true", "false"], {
+				"display": "Old Height"
+			}]
+		],
+		"|obj_iceblockOLD|obj_iceblock_temp|": [
+			["bump", ["true", "false"], {
+				"display": "Bump Wall"
+			}]
+		],
+		"|obj_barrel|": [
+			["old", ["true", "false"], {
+				"display": "Old Barrel"
+			}]
+		],
+		"|obj_supriseenemy|": [
+			"content",
+			["trigger", {
+				"display": "group id"
+			}]
+		],
+		"|obj_supriseenemyarea|" : [
+			["trigger", {
+				"display": "group id"
+			}]
+		],
+		"|obj_iceblock_breakable|": [
+			["bird", ["true", "false"], {
+				"noCustom": true
+			}]
+		],
+		"|obj_golflauncher|": [
+			["use_collision", ["true", "false"], {
+				"noCustom": true
+			}],
+			"grav"
+        ],
+		"|obj_micnoise|" : [
+			["target", ["obj_noiseboss"]],
+			["sprite_index", ["spr_micnoise", "spr_micnoise2"]],
+			"spd"		
+		],
+		"|obj_pepper_marblespot|": [
+			["number", ["8", "9"], {
+				"noCustom": true
+			}]
+		],
+		"|obj_finalhallwayface|": [
+			["turn", ["true", "false"], {
+				"noCustom": true
+			}]
+		],
+		"|obj_achievementviewer|": [
+			"sprite_index",
+            "achievement",
+			"index"
+        ],
+		"|obj_stick_forsale|": [
+			["levelName", "levelNameList"],
+            ["gate_sprite", ["spr_gate_pepperman", "spr_gate_vigilante", "spr_gate_noise", "spr_gate_fakepep"]],
+			["bgsprite", ["spr_gate_peppermanBG", "spr_gate_vigilanteBG", "spr_gate_noiseBG", "spr_gate_fakepepBG"]],
+			["targetRoom", "roomNameList", {"display" : "transition room"}],
+			["maxscore", {"display": "cost"}],
+			"save"
+        ],
+		"|obj_doornexthub|": [
+            ["targetRoom", "roomNameList", {"display" : "transition room"}],
+			["targetRoom2", "roomNameList", {"display" : "targetRoom"}],
+			["targetDoor", ["A", "B", "C", "D", "E", "F", "G"]],
+			"key",
+			"unlocked"
+        ],
+		"|obj_collect|": [
+			["sprite_index", ["spr_baconcollect", "spr_bananacollect", "spr_snickcollectible1", 
+			"spr_halloweencollectibles1", "spr_halloweencollectibles2", "spr_halloweencollectibles3", 
+			"spr_halloweencollectibles4", "spr_halloweencollectibles5", "spr_eggcollect", "spr_shrimpcollect", "spr_fishcollect"], 
+			{"display" : "skin", "noCustom": false}]
+		],
+		"|obj_bigcollect|obj_escapecollectbig|obj_pizzasona_spawn|": [
+            "value"
+        ],
+        "|obj_giantcollect|": [
+            ["secret", ["true", "false"], {"display" : "last room", "noCustom": true}],
+			["sprite_index", ["spr_snickcollectible3"], {"display" : "skin", "noCustom": false}]
+        ],
+        "|obj_gnomehouse1|obj_gnomehouse2|obj_gnomehouse3|obj_gnomehouse4|obj_gnomehouse5|": [
+			"content"
+        ],
+		"|obj_gusbrickchase|": [
+			["sprite_index", ["spr_gustavochase"], {
+				"display": "gustavo",
+				"noCustom": true
+			}]
+		],
+		"|obj_gusbrickhurt|": [
+			["sprite_index", ["spr_gushurt"], {
+				"display": "gustavo",
+				"noCustom": true
+			}]
+		],
+		"|obj_fallingplatform|": [
+			["sprite_index", ["spr_chigaco"], {
+				"display": "skin",
+				"noCustom": false
+			}]
+		],
+		"|obj_ghostfollow|": [
+			"movespeed"
+		],
+		"|obj_pigcitizen|": [
+			["male", ["true", "false"], {
+				"noCustom": true
+			}]
+		],
+		"|obj_sausageman|": [
+			["whoopass", ["true", "false"], {
+				"noCustom": true
+			}]
+		],
+		"|obj_thug_red|obj_smokingpizzaslice|obj_ancho|obj_fencer|obj_pickle|" : [
+			["elite", ["true", "false"], {
+				"noCustom": true
+			}]
+		],
+		"|obj_swedishmonkey|obj_forknight|" : [
+			["elite", ["true", "false"], {
+				"noCustom": true
+			}]
+		],		
+		"|obj_autocanon|" : [
+			"cooldown",
+			"cooldownmax",
+		   ["cooldownrandom", ["true", "false"], {"noCustom" : true}]
+		],
+		"|obj_robotmonster|obj_puppetmonster|obj_hillbillymonster|obj_blobmonster|" : [
+			 ["state", ["217", "218", "219"], {"display" : "state", "noCustom" : true}]
+		],
+		"|obj_pizzaface|" : [
+			"maxspeed"
+		],
+		"|obj_robot|": [
+			["chosenstate", ["103", "129", "91", "23"], {
+				"display": "attack",
+				"noCustom": true
+			}]
+		],
+		"|obj_bigcheese|": [
+			"throwspeed"
+		],
+		"|obj_motodude|": [
+			["stationned", ["true", "false"], {
+				"display": "Unmoving"
+			}]
+		],
+		"|obj_cheeseslime|": [
+			["paletteselect", ["0", "1"], {
+				"display": "snotty",
+				"noCustom": true
+			}],
+			["can_bounce", ["True", "False"], {
+				"display": "bouncy",
+				"noCustom": false
+			}],
+			["elite", ["true", "false"], {
+				"noCustom": true
+			}]
+		],
+		"|obj_minijohn|" : [
+			["state", ["189"], {"display" : "underground", "noCustom" : true}],
+			["elite", ["true", "false"], {
+				"noCustom": true
+			}]
+        ],
+		"|obj_treasureguy|" : [
+			["state", ["189"], {"display" : "underground", "noCustom" : true}]
+		],
+		"|obj_ninja|": [
+			["paletteselect", ["0", "1", "2", "3", "4"], {
+				"display": "color",
+				"noCustom": true
+			}]
+		],
+		"|obj_pizzard|": [
+			["old", ["true", "false"], {
+				"display": "Knight"
+			}]
+		],
+		"|obj_pizzagoblin|": [
+			["old", ["true", "false"], {
+					"display": "Old Bomb"
+			}],
+			["BombcanThrow", ["true", "false"], {
+				"display": "Throwable"
+			}],
+			["BombcanMove", ["true", "false"], {
+				"display": "Can Turn"
+			}],
+			["BombcanJump", ["true", "false"], {
+				"display": "Can Jump"
+			}],
+			"bombtotaltimer"
+		],
+		"|obj_kentukykenny|": [
+			["old", ["true", "false"], {
+					"display": "Old Firemouth"
+			}],
+			["WingcanDash", ["true", "false"], {
+				"display": "Firemouth Dash (New Only)"
+			}],
+			["WingcanMove", ["true", "false"], {
+				"display": "Firemouth Move (Old Only)"
+			}],
+			["WingcanShoot", ["true", "false"], {
+				"display": "Firemouth Shoot (Old Only)"
+			}]
+		],
+		"|obj_pepgoblin|": [
+			["elite", ["true", "false"], {
+				"noCustom": true
+			}]
+		],
+		"|obj_baddie|": [
+			["escape", ["true", "false"], {
+				"display": "escape spawn",
+				"noCustom": true
+			}],
+			"grav",
+			"movespeed",
+			["supertauntable", ["true", "false"], {
+				"noCustom": true
+			}],
+			["destroyable", ["true", "false"], {
+				"noCustom": true
+			}],
+			["arena", ["true", "false"], {
+				"noCustom": true
+			}],
+			"wave",
+			["rage", ["true", "false"], {
+				"noCustom": true
+			}]
+		],
+		"|obj_gustavoswitch|obj_peppinoswitch|": [
+			["escape", ["true", "false"], {
+				"display": "escape spawn",
+				"noCustom": true
+			}]
+		],
+		"|obj_baddiespawner|obj_baddiecameraspawner|obj_agressivebaddiespawner|": [
+			"content",
+			"refresh",
+			"grav"
+		],
+		"|obj_horsey|": [
+			["hsp", {
+				"display": "hor.speed"
+			}],
+			["vsp", {
+				"display": "vert. speed"
+			}]
+		],
+		"|obj_trash|": [
+			["trashbuffer", {
+				"display": "initial buffer"
+			}]
+		],
+		"|obj_trashOLD|": [
+			["CheesecanJump", ["true", "false"], {
+				"display": "Cheeseball Jump"
+			}],
+			["CheesecanStick", ["true", "false"], {
+				"display": "Cheese Pep Crouch"
+			}],
+			["CheesecanCeiling", ["true", "false"], {
+				"display": "Ceiling Cling"
+			}],
+			["CheeseloseCheese", ["true", "false"], {
+				"display": "No Cheese Pep"
+			}]
+		],
+		"|obj_invtrash|": [
+			["CheesecanJump", ["true", "false"], {
+				"display": "Cheeseball Jump"
+			}],
+			["CheesecanStick", ["true", "false"], {
+				"display": "Cheese Pep Crouch"
+			}],
+			["CheesecanCeiling", ["true", "false"], {
+				"display": "Ceiling Cling"
+			}],
+			["CheeseloseCheese", ["true", "false"], {
+				"display": "No Cheese Pep"
+			}]
+		],
+		"|obj_stringycheese|": [
+			"maxhandlen"
+		],
+		"|obj_movingplatform|": [
+			"hmovespeed",
+			"vmovespeed"
+		],
+		"|obj_conveyordespawner|": [
+			"objectlist"
+		],
+        "|obj_arenadoor|": [
+			"babaspawn"
+		],
+        "|obj_lapportal|": [
+			"maxlaps",
+			["inflaps", ["true", "false"], {
+				"display": "Infinite Lapping"
+			}],
+			["custommusic", "audioList", {
+				"display": "Custom Theme"
+			}],
+			"warmin",
+			"warsec"
+		],
+		"|obj_conveyorspawner|": [
+			"objectlist",
+			["objectList", {
+				"display": "set to not crash",
+				"noCustom": false
+			}],
+			"delaymax",
+			"delay"
+		],
+		"|obj_weaponmachine|": [
+			"coins"
+		],
+		"|obj_tvtrigger|": [
+			"text",
+			["special", ["true", "false"]],
+			"tv_spr",
+			"scroll"
+		],
+		"|obj_startgate|obj_bossdoor": [
+			["levelName", "levelNameList"],
+			["sprite_index", "spriteList"],
+			["bgsprite", "spriteList"]
+		],
+		"|obj_startgate_treasure|": [
+			["level", "levelNameList"]
+		],
+		"|obj_treasure|" : [
+			"sprite_index",
+                        ["image_index", ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19"], {"display" : "sprite", "noCustom" : true}],
+                        ["got", ["true", "false"], {"display" : "animation", "noCustom" : true}],
+                        ["player", ["true", "false"], {"display" : "get", "noCustom" : true}]
+		],
+		"|obj_spaceshuttle|obj_lapportal|obj_secretportal|": [
+			["targetRoom", "roomNameList"]
+		],
+		"|obj_taxi|": [
+			["targetRoom", "roomNameList"],
+			["police", ["true", "false"], {
+				"noCustom": true
+			}],
+			["escape", ["true", "false"], {
+				"display": "pizza face",
+				"noCustom": true
+			}]
+		],
+		"|obj_boxofpizza|": [
+			["targetRoom", "roomNameList"],
+			["targetDoor", ["A", "B", "C", "D", "E", "F", "G"]],
+			["sprite_index", ["spr_xmaspizzaboxdown"], {"display" : "skin", "noCustom" : true}]
+		],
+		"|obj_door|": [
+			["john", ["true", "false"], {
+				"display": "escape blocked",
+				"noCustom": true
+			}],
+			["old", ["true", "false"], {
+				"display": "Old Sprite",
+				"noCustom": true
+			}],
+			["targetRoom", "roomNameList"],
+			["targetDoor", ["A", "B", "C", "D", "E", "F", "G"]]
+		],
+		"|obj_hallway|obj_verticalhallway|obj_geromedoor|obj_keydoor|obj_policecar|": [
+			["targetRoom", "roomNameList"],
+			["targetDoor", ["A", "B", "C", "D", "E", "F", "G"]]
+		],
+		"|obj_hallway|": [
+			["rand", ["true", "false"], {
+				"display": "Send to Random Room"
+			}],
+			["exclude", ["true", "false"], {
+				"display": "Exclude main room"
+			}],
+			["remove", ["true", "false"], {
+				"display": "Remove rooms from random"
+			}]
+		],
+		"|obj_secretportal|": [
+			["secret", ["true", "false"], {
+				"display": "secretroom exit",
+				"noCustom": true
+			}]
+		],
+		"|obj_secretroomtrigger|": [
+			["end_secret", ["true", "false"], {
+				"display": "secretroom exit",
+				"noCustom": false
+			}]
+		],
+		"|obj_banditochicken_dynamite|": [
+			"countdown"
+		],
+		"|obj_vigilantebazooka|obj_ufobullet|": [
+			"spd"
+		],
+		"|obj_lightsource|": [
+			"distance"
+		],
+		"|obj_tubeexitmach|": [
+			["approach_spd", {
+				"display": "exit speed"
+			}]
+		],
+		"|obj_baddiebutton|obj_baddiegate|obj_toxicbutton|obj_toxicspray|": [
+			["trigger", {
+				"display": "group id"
+			}]
+		],
+		"|obj_hiddenobjecttrigger|obj_hiddenobject|obj_totem|obj_totemcloud": [
+			["trigger", {
+				"display": "group id"
+			}]
+		],
+		"|obj_pizzacutter1|": [
+			"spinspeed"
+		],
+		"|obj_superspring|": [
+			["sprite_index", ["spr_robotspring", "spr_bottle_idle"], {
+				"display": "idle skin",
+				"noCustom": true
+			}],
+			["activatespr", ["1481", "1805"], {
+				"display": "active skin",
+				"noCustom": true
+			}]
+		],
+		"|obj_cheeseballspawner|": [
+			"refresh",
+			["CheesecanJump", ["true", "false"], {
+				"display": "Cheeseball Jump"
+			}],
+			["CheesecanStick", ["true", "false"], {
+				"display": "Cheese Pep Crouch"
+			}],
+			["CheesecanCeiling", ["true", "false"], {
+				"display": "Ceiling Cling"
+			}],
+			["CheeseloseCheese", ["true", "false"], {
+				"display": "No Cheese Pep"
+			}]
+		],
+		"|obj_cheeseball|": [
+			["canJump", ["true", "false"], {
+				"display": "Cheeseball Jump"
+			}],
+			["canStick", ["true", "false"], {
+				"display": "Cheese Pep Crouch"
+			}],
+			["canCeiling", ["true", "false"], {
+				"display": "Ceiling Cling"
+			}],
+			["loseCheese", ["true", "false"], {
+				"display": "No Cheese Pep"
+			}],
+			"movespeed",
+			"bouncedestroy"
+		],
+		"|obj_flush|": [
+			["trigger", {
+				"display": "group id"
+			}],
+			"type"
+		],
+		"|obj_olivebubbledeco|": [
+			"len"
+		],
+		"|obj_grandma|": [
+			["changed", ["true", "false"], {
+				"display": "scared",
+				"noCustom": true
+			}]
+		],
+		"|obj_tutorialtargetblock|": [
+			["ID", {
+				"display": "target id"
+			}]
+		],
+		"|obj_peppermanGIANTbowlingball|": [
+			"fall"
+		],
+		"|obj_exitgustavo|": [
+			["stick", ["true", "false"], {
+				"noCustom": true
+			}]
+		],
+               
+		"|obj_toppinwarriorbutton|": [
+			"toppinwarrior"
+		],
+		"|obj_secretblock|obj_secretbigblock|obj_secretmetalblock|": [
+			["particlespr", [
+				"spr_towerblockdebris", 
+				"spr_ruindebris1",
+				"spr_ruindebris2",
+				"spr_ruindebris3",
+				"spr_ruindebris4",
+				
+				"spr_dungeondebris1",
+				
+				"spr_badlandsdebris1",
+				"spr_badlanddebris2",
+				"spr_badlanddebris3",
+				
+				"spr_graveyarddebris1",
+				"spr_graveyarddebris2",
+				"spr_graveyarddebris3",
+				
+				"spr_farmdebris1",
+				"spr_farmdebris2",
+				
+				"spr_saloondebris1",
+				"spr_saloondebris2",
+				
+				"spr_beachdebris",			
+				"spr_shipdebris1",
+				
+				"spr_spacedebris",
+				"spr_planetdebris",
+				"spr_space3debris",
+				
+				"spr_plaindebris",
+				"spr_forestblockdebris",
+				
+				"spr_streetdebris",
+				"spr_streethousedebris",
+				
+				"spr_factorydebris",
+				"spr_industrialdebris",
+				
+				"spr_poopdebris",
+				"spr_sewerdebris1",
+				"spr_sewerdebris2",
+				
+				"spr_snowblockdebris",
+				"spr_icedebris",
+				
+				"spr_pumpkindebris",
+				"spr_bonedebris",
+
+				"spr_storagecratedebris",
+				"spr_complexdebris",
+				
+				"spr_wardebris",
+				
+				
+				"spr_eyedebris",
+				"spr_tutorialblockdebris",
+				"spr_chocolatedebris",
+				"spr_slimedebris",
+				"spr_barreldebris",
+				"spr_wooddebris",
+				"spr_halloweenbigdebris",
+				"spr_halloweendebris"
+
+			], {
+				"display": "particle"
+			}]
+		],
+
+		"|obj_deliverypizzabox|obj_nuketerminal|": [
+			"minutes",
+			"seconds"
+		],
+		"|obj_teleporter|": [
+			["start", ["true", "false"], {
+				"display": "entrance",
+				"noCustom": true
+			}],
+			["trigger", {
+				"display": "group id"
+			}]
+		],
+		"|obj_exitgate|": [
+			["drop", ["true", "false"], {
+				"noCustom": true
+			}],
+			"drop_y",
+			["unlocked", ["true", "false"], {
+				"noCustom": false
+			}]
+		],	
+		"|obj_jumpscare|" : [
+                        ["monsterid", ["0", "1", "2", "3", "4", "5"], {"display" : "monster", "noCustom" : true}],
+                        ["oktoberfest", ["1", "0"], {"display" : "oktoberfest", "noCustom" : true}]
+		],
+		"|obj_sprite|": [
+			["sprite_index", "spriteList"]
+		],
+		"|obj_pizzaboxunopen|": [
+			["content", ["obj_pizzakinshroom", "obj_pizzakincheese", "obj_pizzakintomato", "obj_pizzakinsausage", "obj_pizzakinpineapple", "obj_noisebomb"]]
+		],
+		"|obj_pineapplemonster|": [
+			"content"
+		],
+		"|obj_timedgateclock|": [
+			"time_max"
+		],
+                "|obj_arenaspawnpoint|": [
+			"pizzaspd",
+                        "snickspd"
+		],
+		"|obj_pizzaball|": [
+			"hitsPrimoBurg",
+			"hitsHotDog",
+			"hitsNothing"
+		],
+		"|obj_tubeenter|": [
+			["hsp", [-1, 0, 1], {
+				"display": "Hor. enter direction"
+			}],
+			["vsp", [-1, 0, 1], {
+				"display": "Vert. enter direction"
+			}]
+		],
+		"|obj_well|": [
+			["MortcanDJump", ["true", "false"], {
+					"display": "Double Jump"
+			}],
+			["MortcanAttack", ["true", "false"], {
+					"display": "Attack"
+			}],
+			["MortcanFloat", ["true", "false"], {
+					"display": "Float"
+			}]
+		],
+		"|obj_weeniemount|": [
+			["old", ["true", "false"], {
+				"display": "Old Mount"
+			}]
+		],
+		"|obj_shotgun|": [
+			["activateTimer", ["true", "false"], {
+				"noCustom": true
+			}],
+			["old", ["true", "false"], {
+				"display": "Old Shotgun"
+			}],
+			["stopGrab", ["Press", "Hold"], {
+				"display": "Dash"
+			}],
+			["instaDown", ["Down only", "Down + Shoot"], {
+				"display": "Down Shoot"
+			}],
+			["lose", ["true", "false"], {
+				"display": "Lose Shotgun"
+			}]
+		],
+		"|obj_pistolpickup|": [
+			["chainsaw", ["true", "false"], {
+				"display": "Chainsaw"
+			}]
+		],
+		"|obj_tutorialbook|": [
+			"text"
+		],
+		"|obj_racestart|": [
+			"spd"
+		],
+		"|obj_ghosthazard|": [
+			"len",
+			"angle_spd"
+		],
+		"|obj_transfotip|": [
+			"text",
+			"color"
+		],
+		"|obj_followcharacter|": [
+			"sprite_index"
+		],
+		"|obj_text|": [
+			"text"
+		],
+		"|obj_smallletters|": [
+			"letters"
+		],
+		"|obj_destroyable_respawner|": [
+			"content"
+		],
+		"|obj_heatafterimage|": [
+			"is_visible"
+		],
+		"|obj_roomname|": [
+			"msg"
+		],
+		"|obj_pizzacoin|": [
+			"grav"
+		],
+		"|obj_darkcontroller|": [
+			["kidsparty", ["Bloodsauce", "DMAS", "Chateau"], {
+				"display": "Lighting Style"
+			}]
+		],
+		"|obj_screenwarp|": [
+			"trigger",
+			["keepy", ["true", "false"], {
+				"display": "Keep Y coord"
+			}]
+		],
+		"|obj_snickexe|": [
+			"maxspeed"
+		],
+		"|obj_presentbox|": [
+			"character",
+			"box"
+		],
+		"|obj_bosscontroller|": [
+			"boss_hp",
+			"boss_hpsprite",
+			"vstitle",
+			"boss_rowmax",
+			"player_hp",
+			"playerspr",
+			"bossspr"
+		],
+		"|obj_hungrypillar|": [
+			["replacemusic", ["true", "false"], {
+				"display": "Play Theme"
+			}],
+			["custommusic", "audioList"],
+			["finaljohn", ["true", "false"], {
+				"display": "CTOP John"
+			}]
+		],
+		"|obj_noise_normalT1|": [
+			["treasure", ["true", "false"], {
+				"display": "Treasure"
+			}],
+			"buffer_s"
+		],
+		"|obj_arenaspawn|": [
+			"waves",
+			"ragestart",
+			["kungfu", ["true", "false"], {
+				"display": "Kungfu Physics"
+			}],
+		],
+		"|obj_hook|": [
+			["destroy_hook", ["true", "false"], {
+				"display": "Destroy Hook"
+			}]
+		],
+		"|obj_secretexitblock|": [
+			["level", "levelList"]
+		],
+		"|obj_characterswitch|": [
+			["charSwitch", ["Peppino", "Noise", "Skateboard Noise", "Pogo Noise", "Vigilante", "Pepperman", "Snick (broken)"], {
+				"display": "Character"
+			}]
+		],
+		"|obj_pizzafaceOLDcontroller|": [
+			["oldpizzaface", ["true", "false"], {
+				"display": "Old Pizzaface"
+			}],
+			"movespr",
+			"slowspr",
+			"stunspr"
+		],
+		"|obj_ratfairy|": [
+			"value"
+		],
+		"|obj_pumpkin|": [
+			["seasonal", ["true", "false"], {
+				"display": "Seasonal"
+			}]
+		],
+		"|obj_pumpkindoor|": [
+			["seasonal", ["true", "false"], {
+				"display": "Seasonal"
+			}],
+			"pumpkins"
+		],
+		"|obj_halloweenjumpscare|": [
+			["seasonal", ["true", "false"], {
+				"display": "Seasonal"
+			}],
+			["panicdestroy", ["true", "false"], {
+				"display": "Destroy on Escape"
+			}]
+		],
+		"|obj_halloweenjumpscare|": [
+			"exitspr",
+			"spr_fall"
+		],
+		"|obj_arenalimit|": [
+			"pzspeed",
+			"snspeed"
+		],
+	},
+
+	"variableTypes" : {
+		"levelName" : "lvl",
+		"level" : "lvl",
+		"targetRoom" : "room"
+	},				
+	"questionBlocks": {
+		"obj_pizzaboxunopen": "content",
+		"obj_baddiespawner": "content",
+		"obj_baddiecameraspawner": "content",
+		"obj_agressivebaddiespawner": "content",
+		"obj_fakesanta": "content",
+		"obj_fakesantapresent": "content",
+		"obj_pineapplemonster": "content",
+		"obj_spawner_goblinraid": "content",
+		"obj_destroyable_respawner": "content",
+		"obj_breakabletv": "content",
+		"obj_destroyable2_big": "content",
+		"obj_destroyable2_big_escape": "content",
+		"obj_tutorialtargetblock": "ID"
+	}
+}

@@ -1,0 +1,183 @@
+{
+	"folders": {
+		"terrain": [
+			"tile_secret",
+			
+			"spr_towerentrancehall",
+			
+			"tile_entrance1",
+			"tile_tower",
+			
+			"tile_medieval",
+			"tile_medieval2",
+			"tile_medieval3",
+			"spr_medievallibrary",
+			"spr_medievalinterior",
+			
+			"tile_ruin",
+			"tile_ruin2",
+			"spr_ruinend_secret",
+			
+			"tile_dungeon2",
+
+			"spr_desertsecret",
+			"tile_desert",
+			"tile_ufo",
+			"spr_pizzamarttile",
+			
+			"tile_graveyard1",
+			"tile_graveyard2",
+			"tile_graveyard3",
+			
+			"tile_farm",
+			
+			"spr_pinballwooden",
+			
+			"spr_beachdeco",
+			
+			"spr_foresttile1",
+			"forestprops",
+			"forestprops2",
+			"spr_forestplaintile",
+
+			"spr_minigolfprops",
+			
+			"spr_city1props",
+			"spr_interiortile",
+
+			"tile_factory",
+			"tile_factory2424",
+			
+			"spr_sewer1props",
+			"spr_sewer2props",
+			
+			"bg_tilefreezer",
+			"tile_freezer2",
+			"freezerfridge",
+
+			"tile_chateau1",
+
+			"spr_kidspartytile",
+			"spr_kitchentileOLD",
+			"industrialcomplex",
+			"spr_storagetile",
+
+			"spr_waroutsidetile2858",
+			"spr_warlab",
+			"spr_warprops",
+			"sprite_warslope",
+
+			"spr_exittile",
+
+			"spr_taskroomtile",
+
+
+			"tile_castle",
+			"tile_kunfucity",
+			"tile_pinball1",
+			"tile_pinball2",
+			"tile_pinball3",
+			"tile_strongcold"
+		],
+		"decoration": [
+			"spr_entrancedeco",
+			"spr_medievaldeco",
+			"medievaldeco2",
+			"spr_ruindeco",
+			"spr_dungeondeco",
+			
+			"spr_graveyardmine",
+			
+			"beachprops",
+			"beachprops2",
+			
+			"spr_spaceprops",
+			"spr_spaceprops2",
+			"spr_space3var",
+			
+			"spr_factory2",
+			
+			"spr_chateauskulldeco",
+			"spr_chateauskulldeco2",
+			"spr_kidspartytile",
+			
+			"spr_mansiontile2",
+			"sprite_tile_kungfustructure",
+			"spr_citycarnivalprops",
+			"spr_citydarkprops",
+			"tile_towerdetails",
+		]
+	},
+	"order": [
+		"terrain",
+		"decoration"
+	],
+	"previewOffset": {
+		"tile_secret" : [1, 1],
+		"tile_entrance1": [4,4],
+		"tile_tower": [4,4],
+		"tile_medieval": [1,1],
+		"tile_medieval2": [1,1],
+		"tile_medieval3": [1,1],
+		"tile_ruin": [1,0],
+		"tile_ruin2": [3,1],
+		"tile_desert": [4,4],
+		"tile_ufo": [1,2],
+		"tile_graveyard1": [1,0],
+		"tile_graveyard2": [1,0],
+		"tile_graveyard3": [1,0],
+		"tile_farm": [4,0],
+		"tile_factory": [1,0],
+		"tile_chateau1": [2,0],
+		"spr_beachdeco": [1,2],
+		"tile_freezer2": [1,0],
+		"tile_castle": [1,1],
+		"tile_kunfucity": [0,3],
+		"sprite_tile_kungfustructure": [4,1],
+		"tile_pinball1": [4,1],
+		"tile_pinball2": [4,1],
+		"tile_pinball3": [4,1],
+		"tile_strongcold": [1,0],
+		"spr_medievaldeco": [5, 0],
+		"spr_entrancedeco": [0,1],
+		"spr_towerentrancehall": [9,0],
+		"tile_towerdetails": [2,10],
+		"spr_medievallibrary": [1,0],
+		"spr_medievalinterior": [1,1],
+		"spr_ruinend_secret": [1,0],
+		"spr_ruindeco": [1,0],
+		"spr_dungeondeco": [10,1],
+		"spr_desertsecret": [13,8],
+		"spr_graveyardmine": [0,2],
+		"spr_factory2": [1,1],
+		"spr_chateauskulldeco": [0,1],
+		"spr_chateauskulldeco2": [0,1],
+		"bg_tilefreezer": [1,0],
+		"spr_minigolfprops": [0,20],
+		"spr_spaceprops": [1,0],
+		"spr_spaceprops2": [11,6],
+		"spr_space3var": [1,0],
+		"spr_sewer1props": [1,0],
+		"spr_sewer2props": [1,0],
+		"spr_city1props": [1,0],
+		"spr_citycarnivalprops": [6,1],
+		"spr_citydarkprops": [6,1],
+		"spr_pizzamarttile": [1,0],
+		"spr_pinballwooden": [1,0],
+		"spr_waroutsidetile2858": [1,7],
+		"spr_warlab": [1,12],
+		"spr_warprops": [1,37],
+		"sprite_warslope": [2,6],
+		"spr_forestplaintile": [1,1],
+		"spr_foresttile1": [2,1],
+		"spr_interiortile": [1,1],
+		"spr_kidspartytile": [2,0],
+		"spr_storagetile": [1,0],
+		"spr_taskroomtile": [1,4],
+		"spr_exittile": [1,0],
+		"spr_mansiontile2": [6,13],
+		"spr_kitchentileOLD": [2,1],
+		"tile_dungeon2": [2,5],
+		"tile_factory2424": [2,0]
+	}
+}

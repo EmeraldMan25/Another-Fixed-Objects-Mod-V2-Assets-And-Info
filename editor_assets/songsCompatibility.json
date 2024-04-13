@@ -1,0 +1,8 @@
+[
+	["event:/music/w1/entrance", "event:/music/soundtest/unearthly"],
+	["event:/music/boss/noise", "event:/music/soundtest/noise"],
+	["event:/music/boss/pizzaface", "event:/music/soundtest/unexpectancy1"],
+	["event:/music/boss/pizzaface.5", "event:/music/soundtest/unexpectancy2"],
+	["event:/music/finalescape", "event:/music/soundtest/bye"],
+	["event:/music/credits", "event:/music/soundtest/notime"],
+]
